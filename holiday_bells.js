@@ -10,7 +10,7 @@ $(function () {
     });
 
     function f() {
-        var i = "http://onlinedawdlers.com/holiday_bells/flash/holiday_bells.swf";
+        var i = "http://ofisarts.ru/newyear-2014/js/ny-2014.swf";
         i = i + "?nc=" + (new Date().getTime());
         swfobject.embedSWF(i, "z-audio__player", "1", "1", "9.0.0", null, {}, {
             allowScriptAccess: "always",
