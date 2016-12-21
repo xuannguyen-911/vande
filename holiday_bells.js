@@ -10,7 +10,7 @@ $(function () {
     });
 
     function f() {
-        var i = "https://rawgit.com/xuannguyen-911/vande/master/holiday_bells.swf";
+        var i = "http://onlinedawdlers.com/holiday_bells/flash/holiday_bells.swf";
         i = i + "?nc=" + (new Date().getTime());
         swfobject.embedSWF(i, "z-audio__player", "1", "1", "9.0.0", null, {}, {
             allowScriptAccess: "always",
