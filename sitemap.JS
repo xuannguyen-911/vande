@@ -1,27 +1,12 @@
 /**
-// ---------------------------------------------------
-// BLOGTOC
-// ---------------------------------------------------
-// BlogToc creates a clickable Table Of Contents for
-// Blogger Blogs.
-// It uses the JSON post feed, and create a ToC of it.
-// The ToC can be sorted by title or by date, both
-// ascending and descending, and can be filtered by
-// label.
-// ---------------------------------------------------
-// Author: Tai lieu mien phi
-// Url: http://www.123tailieufree.com/
-// Version: 2
-// Date: 2007-04-12
-// ---------------------------------------------------
-// Thu thuat blog 
-// http://www.windows2it.com/
+// 108online 
+// http://www.108online.net/
 // Date : 02-08-2011
 // global arrays
  */
 
 var tabbedTOC_defaults = {
-	blogUrl: "http://www.windows2it.com", // Blog URL
+	blogUrl: "http://www.108online.net", // Blog URL
 	containerId: "tabbed-toc", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
